@@ -3764,7 +3764,7 @@
       }
     },
     {
-      "displayName": "JIO BP",
+      "displayName": "Jio-BP",
       "id": "jiobp-989925",
       "locationSet": {"include": ["in"]},
       "matchNames": [
@@ -3773,7 +3773,10 @@
       ],
       "tags": {
         "amenity": "fuel",
-        "brand": "JIO BP",
+        "brand": "Jio-BP",
+        "brand:en": "Jio-BP",
+        "brand:hi": "जियो-बीपी",
+        "brand:kn": "ಜಿಯೋ-ಬಿಪಿ",
         "brand:wikidata": "Q7311026"
       }
     },
@@ -4793,6 +4796,7 @@
       "tags": {
         "amenity": "fuel",
         "brand": "OLA Energy",
+        "brand:wikidata": "Q126916526",
         "name": "OLA Energy"
       }
     },
@@ -7566,6 +7570,17 @@
       }
     },
     {
+      "displayName": "WICO",
+      "id": "wico-dca697",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WICO",
+        "brand:wikidata": "Q141235933",
+        "name": "WICO"
+      }
+    },
+    {
       "displayName": "Winxo",
       "id": "winxo-144a57",
       "locationSet": {"include": ["ma"]},
@@ -8946,18 +8961,18 @@
       }
     },
     {
-      "displayName": "ป.ต.ท.",
+      "displayName": "ปตท.",
       "id": "ptt-56d9b3",
       "locationSet": {"include": ["th"]},
       "tags": {
         "amenity": "fuel",
-        "brand": "ป.ต.ท.",
+        "brand": "ปตท.",
         "brand:en": "PTT",
-        "brand:th": "ป.ต.ท.",
+        "brand:th": "ปตท.",
         "brand:wikidata": "Q1810389",
-        "name": "ป.ต.ท.",
+        "name": "ปตท.",
         "name:en": "PTT",
-        "name:th": "ป.ต.ท."
+        "name:th": "ปตท."
       }
     },
     {

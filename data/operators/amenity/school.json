@@ -15081,12 +15081,12 @@
       }
     },
     {
-      "displayName": "Diocese Of Southwell and Nottingham Multi-Academy Trust",
+      "displayName": "Diocese of Southwell and Nottingham Multi-Academy Trust",
       "id": "dioceseofsouthwellandnottinghammultiacademytrust-26e9df",
       "locationSet": {"include": ["gb"]},
       "tags": {
         "amenity": "school",
-        "operator": "Diocese Of Southwell and Nottingham Multi-Academy Trust",
+        "operator": "Diocese of Southwell and Nottingham Multi-Academy Trust",
         "operator:type": "private",
         "operator:wikidata": "Q121704468"
       }
@@ -22710,6 +22710,17 @@
         "operator": "Infanta District",
         "operator:type": "government",
         "operator:wikidata": "Q130490541"
+      }
+    },
+    {
+      "displayName": "Infinity Academies Trust",
+      "id": "infinityacademiestrust-7a837c",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "school",
+        "operator": "Infinity Academies Trust",
+        "operator:type": "private",
+        "operator:wikidata": "Q122683868"
       }
     },
     {
@@ -37102,6 +37113,17 @@
         "operator": "Pathfinder Schools",
         "operator:type": "private",
         "operator:wikidata": "Q122616294"
+      }
+    },
+    {
+      "displayName": "Pathway Trust",
+      "id": "pathwaytrust-7a837c",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "school",
+        "operator": "Pathway Trust",
+        "operator:type": "private",
+        "operator:wikidata": "Q122683278"
       }
     },
     {
