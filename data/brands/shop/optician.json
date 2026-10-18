@@ -602,6 +602,18 @@
       }
     },
     {
+      "displayName": "Ideal Vision Center",
+      "id": "idealvisioncenter-cafbe0",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Ideal Vision Center",
+        "brand:wikidata": "Q141666500",
+        "name": "Ideal Vision Center",
+        "shop": "optician",
+        "short_name": "Ideal Vision"
+      }
+    },
+    {
       "displayName": "Instrumentarium",
       "id": "instrumentarium-3a4758",
       "locationSet": {"include": ["fi"]},
@@ -1457,6 +1469,17 @@
         "brand:short": "Solstice",
         "brand:wikidata": "Q112144417",
         "name": "Solstice Sunglasses",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "Spaccio Occhiali Vision",
+      "locationSet": {"include": ["IT"]},
+      "matchTags": ["healthcare/optometrist"],
+      "tags": {
+        "brand": "Spaccio Occhiali Vision",
+        "brand:wikidata": "Q141756627",
+        "name": "Spaccio Occhiali Vision",
         "shop": "optician"
       }
     },

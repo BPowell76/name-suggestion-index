@@ -423,6 +423,17 @@
       }
     },
     {
+      "displayName": "Bygma",
+      "id": "bygma-8242be",
+      "locationSet": {"include": ["dk", "fo"]},
+      "tags": {
+        "brand": "Bygma",
+        "brand:wikidata": "Q12304724",
+        "name": "Bygma",
+        "shop": "doityourself"
+      }
+    },
+    {
       "displayName": "Cashbuild",
       "id": "cashbuild-c5a717",
       "locationSet": {
@@ -1401,6 +1412,17 @@
         "brand": "Sonderpreis Baumarkt",
         "brand:wikidata": "Q102247917",
         "name": "Sonderpreis Baumarkt",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Stark",
+      "id": "stark-9848d0",
+      "locationSet": {"include": ["dk", "gl"]},
+      "tags": {
+        "brand": "Stark",
+        "brand:wikidata": "Q16324560",
+        "name": "Stark",
         "shop": "doityourself"
       }
     },

@@ -1096,6 +1096,20 @@
       }
     },
     {
+      "displayName": "Botejyu",
+      "id": "botejyu-5259a4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Botejyu",
+        "brand:ja": "ぼてぢゅう",
+        "brand:wikidata": "Q11278035",
+        "cuisine": "japanese",
+        "name": "Botejyu",
+        "name:ja": "ぼてぢゅう"
+      }
+    },
+    {
       "displayName": "Bravo",
       "id": "bravo-96af40",
       "locationSet": {"include": ["us"]},
@@ -1388,6 +1402,20 @@
         "brand:wikidata": "Q17310688",
         "cuisine": "international",
         "name": "Cafe Del Sol"
+      }
+    },
+    {
+      "displayName": "Cafe Mary Grace",
+      "id": "cafemarygrace-5259a4",
+      "locationSet": {"include": ["ph"]},
+      "matchNames": ["mary grace cafe"],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Mary Grace",
+        "brand:wikidata": "Q123196663",
+        "cuisine": "pastry;sandwich",
+        "name": "Cafe Mary Grace",
+        "takeaway": "yes"
       }
     },
     {
@@ -2638,6 +2666,19 @@
       }
     },
     {
+      "displayName": "El Pollo Loco",
+      "id": "elpolloloco-5259a4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "El Pollo Loco",
+        "brand:wikidata": "Q2353849",
+        "cuisine": "mexican",
+        "name": "El Pollo Loco",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Elephant Bar",
       "id": "elephantbar-96af40",
       "locationSet": {"include": ["us"]},
@@ -3348,6 +3389,19 @@
         "brand:wikidata": "Q22569868",
         "cuisine": "burger",
         "name": "Hans im Glück"
+      }
+    },
+    {
+      "displayName": "Hap Chan",
+      "id": "hapchan-5259a4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Hap Chan",
+        "brand:wikidata": "Q141596772",
+        "cuisine": "chinese",
+        "name": "Hap Chan",
+        "name:yue": "合栈酒家"
       }
     },
     {
@@ -5029,18 +5083,6 @@
         "brand:wikidata": "Q6774779",
         "cuisine": "barbecue;chicken",
         "name": "Martin's BBQ"
-      }
-    },
-    {
-      "displayName": "Mary Grace",
-      "id": "marygrace-5259a4",
-      "locationSet": {"include": ["ph"]},
-      "tags": {
-        "amenity": "restaurant",
-        "brand": "Mary Grace",
-        "brand:wikidata": "Q123196663",
-        "cuisine": "pastry;sandwich",
-        "name": "Mary Grace"
       }
     },
     {
@@ -8888,6 +8930,23 @@
       }
     },
     {
+      "displayName": "Yayoi",
+      "id": "yayoi-5259a4",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "alt_name": "Yayoi-ken",
+        "amenity": "restaurant",
+        "brand": "Yayoi",
+        "brand:en": "Yayoi",
+        "brand:ja": "やよい軒",
+        "brand:wikidata": "Q11280577",
+        "cuisine": "japanese",
+        "name": "Yayoi",
+        "name:en": "Yayoi",
+        "name:ja": "やよい軒"
+      }
+    },
+    {
       "displayName": "YO! Sushi",
       "id": "yosushi-9b5453",
       "locationSet": {"include": ["gb"]},
@@ -9744,13 +9803,12 @@
     },
     {
       "displayName": "やよい軒",
-      "id": "yayoiken-73219d",
+      "id": "yayoiken-6d24fe",
       "locationSet": {
         "include": [
           "au",
           "jp",
           "lb",
-          "ph",
           "sg",
           "th",
           "tw",

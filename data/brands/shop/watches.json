@@ -41,6 +41,30 @@
       }
     },
     {
+      "displayName": "Blancpain",
+      "id": "blancpain-101248",
+      "locationSet": {"include": ["001"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Blancpain",
+        "brand:wikidata": "Q804327",
+        "name": "Blancpain",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Breguet",
+      "id": "breguet-101248",
+      "locationSet": {"include": ["001"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Breguet",
+        "brand:wikidata": "Q661205",
+        "name": "Breguet",
+        "shop": "watches"
+      }
+    },
+    {
       "displayName": "Breitling",
       "id": "breitling-101248",
       "locationSet": {"include": ["001"]},
@@ -208,6 +232,30 @@
         "brand": "Patek Philippe",
         "brand:wikidata": "Q659096",
         "name": "Patek Philippe",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Rado",
+      "id": "rado-101248",
+      "locationSet": {"include": ["001"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Rado",
+        "brand:wikidata": "Q180014",
+        "name": "Rado",
+        "shop": "watches"
+      }
+    },
+    {
+      "displayName": "Richard Mille",
+      "id": "richardmille-101248",
+      "locationSet": {"include": ["001"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Richard Mille",
+        "brand:wikidata": "Q3431044",
+        "name": "Richard Mille",
         "shop": "watches"
       }
     },

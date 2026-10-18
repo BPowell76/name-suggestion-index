@@ -1007,6 +1007,17 @@
       }
     },
     {
+      "displayName": "Mikimoto",
+      "id": "mikimoto-a038d2",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Mikimoto",
+        "brand:wikidata": "Q11341902",
+        "name": "Mikimoto",
+        "shop": "jewelry"
+      }
+    },
+    {
       "displayName": "Mimco",
       "id": "mimco-0359a8",
       "locationSet": {"include": ["au"]},

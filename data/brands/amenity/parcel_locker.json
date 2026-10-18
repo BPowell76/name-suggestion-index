@@ -901,6 +901,18 @@
       }
     },
     {
+      "displayName": "OX Point",
+      "id": "oxpoint-48c9bb",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "OX Point",
+        "brand:wikidata": "Q116894862",
+        "operator": "OX Point",
+        "operator:wikidata": "Q116894862"
+      }
+    },
+    {
       "displayName": "Ozon Box",
       "id": "ozonbox-c00268",
       "locationSet": {"include": ["ru"]},

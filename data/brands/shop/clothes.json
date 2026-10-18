@@ -1051,6 +1051,18 @@
       }
     },
     {
+      "displayName": "Bayo",
+      "id": "bayo-08e127",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Bayo",
+        "brand:wikidata": "Q141598269",
+        "clothes": "women",
+        "name": "Bayo",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Beams",
       "id": "beams-3dc647",
       "locationSet": {
@@ -1444,6 +1456,18 @@
         "brand": "Boboli",
         "brand:wikidata": "Q39073733",
         "name": "Boboli",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "BOCU",
+      "id": "bocu-08e127",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "BOCU",
+        "brand:wikidata": "Q141673670",
+        "name": "BOCU",
+        "official_name": "BOCU Lifestyle",
         "shop": "clothes"
       }
     },
@@ -11272,6 +11296,19 @@
         "brand": "Tatuum",
         "brand:wikidata": "Q28673883",
         "name": "Tatuum",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Tayo",
+      "id": "tayo-08e127",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Tayo",
+        "brand:wikidata": "Q141688245",
+        "clothes": "women;men",
+        "name": "Tayo",
+        "official_name": "Tayo Studio",
         "shop": "clothes"
       }
     },
