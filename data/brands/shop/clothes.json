@@ -9697,6 +9697,18 @@
       }
     },
     {
+      "displayName": "Rains",
+      "id": "rains",
+      "locationSet": {"include": ["dk", "fr"]},
+      "tags": {
+        "brand": "Rains",
+        "brand:wikidata": "Q119440481",
+        "name": "Rains",
+        "shop": "clothes",
+        "clothes": "men;women"
+      }
+    },
+    {
       "displayName": "Ramraj Cotton",
       "id": "ramrajcotton-f8e8b1",
       "locationSet": {"include": ["in"]},
@@ -12035,8 +12047,11 @@
     },
     {
       "displayName": "Uniqlo",
-      "id": "uniqlo-3937bd",
-      "locationSet": {"include": ["001"]},
+      "id": "uniqlo-23e20e",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn", "jp", "kr"]
+      },
       "tags": {
         "brand": "Uniqlo",
         "brand:wikidata": "Q26070",
