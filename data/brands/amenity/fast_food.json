@@ -1766,6 +1766,22 @@
       }
     },
     {
+  "displayName": "Cartofisserie",
+  "locationSet": {
+    "include": [
+      "ro"
+    ]
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "fries",
+    "takeaway": "yes",
+    "name": "Cartofisserie",
+    "brand": "Cartofisserie",
+    "brand:wikidata": "Q141806783"
+  }
+},
+    {
       "displayName": "Chamas Tacos",
       "id": "chamastacos-11ef38",
       "locationSet": {"include": ["fx"]},
@@ -2154,7 +2170,7 @@
       }
     },
     {
-      "displayName": "Chopstix",
+      "displayName": "Chopstix (United Kingdom & Ireland)",
       "id": "chopstix-2dcf5d",
       "locationSet": {"include": ["gb", "ie"]},
       "matchNames": [
@@ -2170,6 +2186,22 @@
         "takeaway": "yes"
       }
     },
+    {
+  "displayName": "Chopstix (Romania)",
+  "locationSet": {
+    "include": [
+      "ro"
+    ]
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chinese",
+    "takeaway": "yes",
+    "name": "Chopstix",
+    "brand": "Chopstix",
+    "brand:wikidata": "Q141806802"
+  }
+},
     {
       "displayName": "Chopt",
       "id": "chopt-4d2ff4",
@@ -4157,6 +4189,24 @@
         "takeaway": "yes"
       }
     },
+    {
+  "displayName": "Fryday",
+  "id": "Fryday",
+  "locationSet": {
+    "include": [
+      "ro",
+      "md"
+    ]
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "takeaway": "yes",
+    "name": "Fryday",
+    "brand": "Fryday",
+    "brand:wikidata": "Q141807354"
+  }
+},
     {
       "displayName": "Fuzzy's Taco Shop",
       "id": "fuzzystacoshop-4d2ff4",
@@ -7781,6 +7831,22 @@
       }
     },
     {
+  "displayName": "Noodle Pack",
+  "locationSet": {
+    "include": [
+      "ro"
+    ]
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "noodle",
+    "takeaway": "yes",
+    "name": "Noodle Pack",
+    "brand": "Noodle Pack",
+    "brand:wikidata": "Q141806816"
+  }
+},
+    {
       "displayName": "Nordsee",
       "id": "nordsee-da5f5f",
       "locationSet": {
@@ -10385,6 +10451,24 @@
         "takeaway": "yes"
       }
     },
+    {
+  "displayName": "Spartan",
+  "id": "Spartan",
+  "locationSet": {
+    "include": [
+      "ro",
+      "es"
+    ]
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Spartan",
+    "brand": "Spartan",
+    "brand:wikidata": "Q25467338",
+    "cuisine":"greek",
+    "takeaway":"yes"
+  }
+},
     {
       "displayName": "Speedy Café",
       "id": "speedycafe-4d2ff4",
