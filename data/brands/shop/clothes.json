@@ -1262,11 +1262,14 @@
     },
     {
       "displayName": "Bik Bok",
-      "id": "bikbok-0779c3",
-      "locationSet": {"include": ["se"]},
+      "id": "bikbok-a91a7f",
+      "locationSet": {
+        "include": ["fi", "no", "se"]
+      },
       "tags": {
         "brand": "Bik Bok",
         "brand:wikidata": "Q10429512",
+        "clothes": "women",
         "name": "Bik Bok",
         "shop": "clothes"
       }
@@ -1814,6 +1817,7 @@
       "tags": {
         "brand": "Brothers",
         "brand:wikidata": "Q67915701",
+        "clothes": "men",
         "name": "Brothers",
         "shop": "clothes"
       }
@@ -2195,10 +2199,10 @@
     },
     {
       "displayName": "Carlings",
-      "id": "carlings-89d713",
+      "id": "carlings-a91a7f",
       "issues": [5500],
       "locationSet": {
-        "include": ["at", "fi", "no", "se"]
+        "include": ["fi", "no", "se"]
       },
       "preserveTags": ["^name"],
       "tags": {
@@ -3511,10 +3515,10 @@
     },
     {
       "displayName": "Dressmann",
-      "id": "dressmann-89d713",
+      "id": "dressmann-a91a7f",
       "issues": [5500],
       "locationSet": {
-        "include": ["at", "fi", "no", "se"]
+        "include": ["fi", "no", "se"]
       },
       "preserveTags": ["^name"],
       "tags": {
@@ -4759,8 +4763,10 @@
     },
     {
       "displayName": "Gina Tricot",
-      "id": "ginatricot-0779c3",
-      "locationSet": {"include": ["se"]},
+      "id": "ginatricot-ef6c41",
+      "locationSet": {
+        "include": ["dk", "fi", "nl", "no", "se"]
+      },
       "tags": {
         "brand": "Gina Tricot",
         "brand:wikidata": "Q1524904",
@@ -6536,9 +6542,16 @@
     },
     {
       "displayName": "Lager 157",
-      "id": "lager157-268f20",
+      "id": "lager157-c32596",
       "locationSet": {
-        "include": ["dk", "fi", "no", "se"]
+        "include": [
+          "de",
+          "dk",
+          "fi",
+          "nl",
+          "no",
+          "se"
+        ]
       },
       "tags": {
         "brand": "Lager 157",
@@ -9421,8 +9434,10 @@
     },
     {
       "displayName": "Polarn O. Pyret",
-      "id": "polarnopyret-0779c3",
-      "locationSet": {"include": ["se"]},
+      "id": "polarnopyret-f4a709",
+      "locationSet": {
+        "include": ["ee", "fi", "gb", "no", "se"]
+      },
       "matchNames": ["po.p"],
       "tags": {
         "brand": "Polarn O. Pyret",
@@ -10245,13 +10260,15 @@
     },
     {
       "displayName": "Samsøe Samsøe",
-      "id": "samsoesamsoe-5e0a04",
+      "id": "samsoesamsoe-827a56",
       "locationSet": {
         "include": [
           "be",
           "de",
           "dk",
-          "lu",
+          "fi",
+          "fr",
+          "gb",
           "nl",
           "no",
           "se"
@@ -12438,8 +12455,10 @@
     },
     {
       "displayName": "Volt",
-      "id": "volt-e9779b",
-      "locationSet": {"include": ["no", "se"]},
+      "id": "volt-a91a7f",
+      "locationSet": {
+        "include": ["fi", "no", "se"]
+      },
       "matchNames": ["volt fashion"],
       "tags": {
         "brand": "Volt",
