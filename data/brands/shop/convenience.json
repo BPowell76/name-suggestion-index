@@ -5446,6 +5446,23 @@
       }
     },
     {
+      "displayName": "Seasons Corner Market",
+      "id": "seasonscornermarket-af2a24",
+      "locationSet": {
+        "include": [
+          "us-ma.geojson",
+          "us-nh.geojson",
+          "us-ri.geojson"
+        ]
+      },
+      "tags": {
+        "brand": "Seasons Corner Market",
+        "brand:wikidata": "Q142095432",
+        "name": "Seasons Corner Market",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "Sedal",
       "id": "sedal-95f41b",
       "locationSet": {"include": ["pl"]},
