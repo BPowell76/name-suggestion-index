@@ -6831,16 +6831,27 @@
     },
     {
       "displayName": "Lindex",
-      "id": "lindex-d7f5c5",
+      "id": "lindex-de4d70",
       "issues": [5500],
       "locationSet": {
         "include": [
+          "al",
+          "ba",
           "cz",
+          "dk",
           "ee",
           "fi",
+          "gb",
+          "is",
+          "lt",
+          "lv",
+          "mt",
           "no",
+          "qa",
+          "rs",
           "se",
-          "sk"
+          "sk",
+          "xk"
         ]
       },
       "preserveTags": ["^name"],
@@ -9318,6 +9329,18 @@
         "brand": "Pick n Pay Clothing",
         "brand:wikidata": "Q122964352",
         "name": "Pick n Pay Clothing",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Picture",
+      "id": "picture-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Picture",
+        "brand:wikidata": "Q132088335",
+        "clothes": "outdoor",
+        "name": "Picture",
         "shop": "clothes"
       }
     },

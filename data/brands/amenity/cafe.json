@@ -2151,6 +2151,28 @@
       }
     },
     {
+      "displayName": "Enilive Café",
+      "id": "enilivecafe-aae1ce",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "fx",
+          "it"
+        ]
+      },
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Enilive",
+        "brand:wikidata": "Q125246327",
+        "cuisine": "coffee_shop",
+        "name": "Enilive Café",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Equatorial Coffee",
       "id": "equatorialcoffee-9d066f",
       "locationSet": {"include": ["za"]},

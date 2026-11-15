@@ -239,6 +239,20 @@
       }
     },
     {
+      "displayName": "Bundesstadt Bonn",
+      "id": "bundesstadtbonn-76bfc3",
+      "locationSet": {
+        "include": ["de-nw.geojson"]
+      },
+      "matchNames": ["bonn", "stadt bonn"],
+      "tags": {
+        "amenity": "kindergarten",
+        "operator": "Bundesstadt Bonn",
+        "operator:type": "government",
+        "operator:wikidata": "Q586"
+      }
+    },
+    {
       "displayName": "BVZ",
       "id": "bvz-17b2fe",
       "locationSet": {
